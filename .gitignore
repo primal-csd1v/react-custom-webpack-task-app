@@ -1,0 +1,4 @@
+# folder npm install
+node_modules/
+package-lock.json
+.idea/
